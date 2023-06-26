@@ -8,6 +8,9 @@
 
             Arraylist.Arraylista();
 
+            Console.WriteLine("linkedlist");
+            LinkedList.Linkedlista();
+
 
         }
     }
