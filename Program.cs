@@ -17,6 +17,9 @@
             Console.WriteLine("\nstack :");
             Stack.Stacka();
 
+            Console.WriteLine("\nQueue :");
+            Queue.Queuea();
+
         }
     }
 }
