@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Lets start with collections");
+
+            Arraylist.Arraylista();
+
+
         }
     }
 }
