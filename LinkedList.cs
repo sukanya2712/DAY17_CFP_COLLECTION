@@ -33,7 +33,7 @@ namespace Collections
                 Console.WriteLine(item);
             }
 
-            Console.WriteLine("\nFirst element: " + firstElement);
+            Console.WriteLine("First element: " + firstElement);
             Console.WriteLine("Last element: " + lastElement);
         }
     }

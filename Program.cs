@@ -8,12 +8,14 @@
 
             Arraylist.Arraylista();
 
-            Console.WriteLine("linkedlist");
+            Console.WriteLine("\nlinkedlist:");
             LinkedList.Linkedlista();
 
-            Console.WriteLine("list ::");
+            Console.WriteLine("\nlist:");
             List.Lista();
 
+            Console.WriteLine("\nstack :");
+            Stack.Stacka();
 
         }
     }
