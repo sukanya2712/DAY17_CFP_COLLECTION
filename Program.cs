@@ -11,6 +11,9 @@
             Console.WriteLine("linkedlist");
             LinkedList.Linkedlista();
 
+            Console.WriteLine("list ::");
+            List.Lista();
+
 
         }
     }
